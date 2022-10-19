@@ -1,0 +1,339 @@
+body{
+    background-color: black;
+    
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.parent {
+   
+   
+
+}
+.child1 {
+   display: flex;
+justify-content: space-between;   
+
+    color: white;
+
+}
+.start{
+   
+    font-size: 30px;
+}
+.imgstart {
+   margin-left: 800px;
+   margin-bottom:200px;
+}
+.h4-6 {
+    background-color:blue;
+    width:  150px;
+    height: 50px;
+    border-radius: 100px 100px;
+    text-align: center;
+    font-size: 30px;
+   
+}
+.child2 {
+  color: white;
+   width:300px;
+    height: 300px;
+
+  
+}
+.center{
+    color: blue;
+    width: 400px;
+    height: 40px;
+     margin-left: 60px;
+     margin-top: 75px;
+    
+}
+.h2center {
+    width: 450px;
+    height: 40px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.p1 {
+   
+    width: 400px;
+    height: 100px;
+     margin-left: 60px;
+     margin-top: 25px;
+}
+.child3 {
+ display: flex;
+ justify-content: end;
+margin-left: 500px;
+  
+}  
+.get{
+    margin-left: 50px;
+    background-color:blue;
+    color: white;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+}
+.frame {
+    margin-left: 30px;
+   
+}
+
+.child4 {
+    display: flex;
+    gap: 100px;
+}
+.sv{
+    width: 800px;
+    height: 800px;
+}
+.end {
+    color: white;
+    background-color:blue;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+}
+.child5 {
+    margin-top: 50px;
+}
+.vohob{
+    color: white;
+} 
+.cament {
+    width: 350px;
+margin-left: 250px ;
+   margin-top: 50px;
+}
+.apple {
+    text-align: center;
+    background-color: blue;
+    height: 50px;   
+    width: 300px;
+    margin-left: 250px;
+    margin-top: 5px;
+    border-radius:25px;
+    
+}
+.android {
+    width: 500px;
+    margin-top: 250px;
+    margin-left: 250px ;
+}
+.mishka{
+    margin-left: 50px;
+}
+.child6 {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+   
+}
+.child7{
+ background-color: gainsboro;
+ width: 250px;
+ height: 300px;
+}
+.birinci{
+    width: 60px;
+    height: 60px;
+    margin-left: 100px;
+}
+.child8 {
+   background-color: gainsboro;
+ width: 250px;
+ height: 300px;  
+ 
+}
+.ikkinci {
+     width: 60px;
+    height: 60px;
+    margin-left: 80px;
+}
+.awards{
+    margin-top: 25px;
+}
+.audi{
+    margin-top: 50px;
+}
+.child9{
+       background-color: gainsboro;
+ width: 250px;
+ height: 300px;  
+}
+.uchinci {
+       width: 60px;
+    height: 60px;
+    margin-left: 80px;
+}
+.child10 {
+background-color: gainsboro;
+ width: 250px;
+ height: 300px;  
+}
+.tortinci {
+ width: 60px;
+    height: 60px;
+    margin-left: 80px;
+}
+.bmw {
+    margin-top: 35px;
+}
+.child11{
+ background-color: gainsboro;
+ width: 250px;
+ height: 300px;     
+}
+.beshinci{
+    width: 60px;
+    height: 60px;
+    margin-left: 80px; 
+}
+.mers {
+    margin-top: 35px;
+}
+.child12{ 
+    display: flex;
+    justify-content: space-around;
+}
+.child13{
+    color: white;
+    background-color: gainsboro;
+    width: 500px;
+    height: 400px;
+    margin-top: 50px;
+}
+.six{
+ margin-top: 50px ;  
+}
+.seven {
+    margin-top: 40px;
+}
+.eight {
+    margin-top: 35px;
+}
+.ninght {
+    margin-top: 30px;
+}
+.gentra{
+    color: gainsboro;
+    width: 250px;
+    margin-top: 25px;
+}
+.child13 {
+    margin-top: 200px;
+    
+}
+.child14{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+.child15 {
+    
+    width: 250px;
+    
+}
+.child16 {
+    color: white;
+}
+.group{
+    margin-top: 50px;
+}
+.child17 {
+   color: white;
+}
+.child18 {
+    color: white;
+}
+.child19{
+    color: white;
+      width: 250px;
+}
+.speed{
+    margin-top: 25px;
+}
+.speed2 {
+    margin-top: 25px;
+}
+.speed3{
+    margin-top: 25px;
+}
+.speed4{
+    margin-top: 78px;
+}
+.speed5{
+    margin-top: 17px;
+}
+.speed6{
+    margin-top: 17px;
+}
+.speed7{
+    margin-top: 17px;
+
+}
+.speed8{
+    margin-top: 17px;
+
+}
+.speed9{
+    margin-top: 17px;
+}
+.speed10{
+    margin-top: 78px;
+}
+.speed11{
+    margin-top: 17px;
+}
+.speed12 {
+    margin-top: 17px;
+}
+.speed13 {
+    margin-top: 17px;
+}
+.speed14 {
+    margin-top: 17px;
+}
+.speed15{
+    margin-top: 17px;
+}
+.speed16 {
+    margin-top: 78px;
+}
+.speed17{
+    margin-top: 17px;
+}
+.speed18 {
+    margin-top: 17px;
+}
+.speed19{
+  margin-top: 17px;
+}
+.speed20{
+    margin-top: 17px;
+}
+.speed21 {
+    margin-top: 17px;
+}
+.speed22 {
+    margin-top: 40px;
+}
+.speed23 {
+    margin-top: 25px;
+}
+.speed24{
+    margin-top: 25px;
+} 
+.speed25 {
+margin-top: 28px;
+}
